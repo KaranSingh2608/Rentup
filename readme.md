@@ -1,7 +1,7 @@
-# Airbnb clone - Documentation
+# RentUp
 Welcome to Airbnb clone documentation. This document provides an overview of the app's functionality and technology stack.
 
-## Live Demo - [Airbnb-Clone](https://cheery-gumdrop-619967.netlify.app/)
+## Demo - [Live](https://cheery-gumdrop-619967.netlify.app/)
 
 
 ## Introduction
